@@ -1,0 +1,9 @@
+trimix\test\config\AppConfig.class
+trimix\test\model\Persona.class
+trimix\test\service\PersonaServiceImpl.class
+trimix\test\dao\PersonaDao.class
+trimix\test\controller\PersonaController.class
+trimix\test\config\WebConfig.class
+trimix\test\dao\PesonaDAOImpl.class
+trimix\test\config\MyWebAppInitializer.class
+trimix\test\service\PersonaService.class
